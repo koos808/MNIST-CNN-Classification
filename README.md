@@ -3,3 +3,4 @@
 
 * MNIST DATA 사용
     * short_prac_train, short_prac_test 데이터 사용
+        * Tensorflow version
